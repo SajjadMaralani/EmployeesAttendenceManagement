@@ -1,3 +1,6 @@
 # EmployeesAttendenceManagement
-# Admin userneme : admin
-# Admin password : admin1234
+
+###
+
+<p align="left">Admin username : admin.</p>
+<p align="left">Admin username : admin1234.</p>
